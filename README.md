@@ -55,7 +55,7 @@ These dependencies are listed in the `requirements.txt` file, which can be insta
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/sambathdox/shadowtrace.git
+   git clone https://github.com/SambathTamil/shadowtrace.git
    cd shadowtrace
 
    ```
